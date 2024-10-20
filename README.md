@@ -6,7 +6,7 @@ In short, you can use your AirPods or other audio control devices to navigate fo
 
 ## 🎥 Video Demo
 
-<video src="demo.mp4" controls />
+<video src="./demo.mp4" controls />
 
 ## 🚀 Getting Started
 
@@ -31,6 +31,10 @@ addons:
 
 - **Single tap** 🎯 go to the next slide ⏭️.
 - **Double tap** 🎯 go to the previous slide ⏮️.
+
+Tip: Due to restrictions in Chrome or other browsers, automatic audio playback doesn't always work. Therefore, you'll need to manually click the play button before starting your presentation.
+
+Some headphones stop listening for click actions when removed from your ears. You'll need to cover the sensor area with your finger for them to continue working.
 
 ## 💻 Compatibility
 
