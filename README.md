@@ -2,6 +2,8 @@
 
 Inspired by the amazing [headphone-morse-transmitter](https://github.com/EtherDream/headphone-morse-transmitter) project, SlidePods leverages the `navigator.mediaSession` API to listen for headphone button presses. These inputs are then mapped to control your Slidev presentation 🚀.
 
+In short, you can use your AirPods or other audio control devices to navigate forward or backward through your slides.
+
 ## 🎥 Video Demo
 
 <video src="demo.mp4" controls />
