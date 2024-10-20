@@ -1,0 +1,37 @@
+{
+    "name": "slidev-addon-slidepods",
+    "version": "0.4.0",
+    "description": "Slidev addon for controlling slides with earbuds",
+    "engines": {
+        "node": ">=18.0.0",
+        "npm": ">=9.5.0"
+    },
+    "workspaces": [
+        "example"
+    ],
+    "scripts": {
+        "dev": "slidev example.md --remote 0.0.0.0",
+        "build": "slidev build example.md",
+        "export": "slidev export example.md",
+        "screenshot": "slidev export example.md --format png",
+        "test": "echo there is no test."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Ice-Hazymoon/slidev-addon-slidepods.git"
+    },
+    "keywords": [
+        "slidev-addon",
+        "slidev"
+    ],
+    "author": "Ice-Hazymoon",
+    "license": "MIT",
+    "devDependencies": {
+        "@slidev/cli": "^0.49.29",
+        "@slidev/theme-default": "latest"
+    },
+    "bugs": {
+        "url": "https://github.com/Ice-Hazymoon/slidev-addon-slidepods/issues"
+    },
+    "homepage": "https://github.com/Ice-Hazymoon/slidev-addon-slidepods#readme"
+}
