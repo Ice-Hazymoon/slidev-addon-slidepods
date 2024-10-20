@@ -38,12 +38,14 @@ Some headphones stop listening for click actions when removed from your ears. Yo
 
 ## 💻 Compatibility
 
+https://developer.mozilla.org/en-US/docs/Web/API/Navigator/mediaSession
+
 | Browser            | Supported 🎉 |
 |--------------------|--------------|
-| Chrome (v76+)      | ✅            |
-| Firefox (v71+)     | ✅            |
+| Chrome (v73+)      | ✅            |
+| Firefox (v82+)     | ✅            |
 | Edge (v79+)        | ✅            |
-| Safari             | ❌ (not yet!) |
+| Safari (v15+)      | ✅            |
 
 ---
 
