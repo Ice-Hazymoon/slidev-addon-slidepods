@@ -6,7 +6,8 @@ In short, you can use your AirPods or other audio control devices to navigate fo
 
 ## 🎥 Video Demo
 
-<video src="./demo.mp4" controls />
+https://github.com/user-attachments/assets/40b78501-08ac-4ea9-901d-db1578e59acc
+
 
 ## 🚀 Getting Started
 
@@ -26,6 +27,7 @@ addons:
 ```
 
 🎉 You're all set! Now you can control your slides by tapping on your earbuds!
+
 
 ## 🔧 How It Works
 
